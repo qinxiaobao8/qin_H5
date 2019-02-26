@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>css优先级</title>
+	
+</head>
+<body>
+	
+	<p>
+		<img src="D:\html+css自学过程代码\1.jpg" width="160" height="100">
+	</p>
+</body>
+</html>
